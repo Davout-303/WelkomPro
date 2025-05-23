@@ -29,7 +29,7 @@ This is a simple hotel booking system project developed using **Python (Flask)**
 - MySQL
 - HTML5 + CSS3
 - Bootstrap
-- JavaScript (opcional)
+- JavaScript
 - Git + GitHub
 
 ---
